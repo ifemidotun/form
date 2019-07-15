@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+#canvas {
+	width: 1000px;
+	border: medium solid #3F0;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	height:2650px;
+}
+
+#oui {
+	margin: 5px;
+	padding: 2px;
+	float: left;
+	width: 300px;
+	border: thin solid #666;
+	text-align:center;
+}
+
+#tpi {
+	margin: 5px;
+	padding: 2px;
+	float: left;
+	width: 300px;
+	border: thin solid #666;
+	text-align:center;
+}
+
+#opl {
+	margin: 5px;
+	padding: 2px;
+	float: left;
+	width: 300px;
+	border: thin solid #666;
+	text-align:center;
+	}
+
+#reg {
+	background-color: #0F0;
+	text-align: center;
+	padding: 2px;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+	float: right;
+	list-style-type: none;
+	}
+
+li{
+	float:right;
+	margin-right:5px;
+	}
+	
+nav{
+	float:right;}
